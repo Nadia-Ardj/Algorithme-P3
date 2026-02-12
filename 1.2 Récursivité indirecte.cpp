@@ -3,7 +3,7 @@
 using namespace std;
 bool estImpair(int n) ;
 bool estPair(int n);
-/*
+
 //  pour n>=0
 bool estPair(int n ){
 
@@ -34,7 +34,7 @@ int main(){
 
   return 0;
 }
-*/
+
 
 // pour n<0 :
 
