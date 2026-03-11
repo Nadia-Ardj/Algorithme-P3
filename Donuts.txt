@@ -1,0 +1,12 @@
+donuts
+6 10
+15 beurre
+5 vanille liquide
+175 sucre en poudre
+1.75 muscade
+2.5 sel fin
+10 levure chimique
+500 farine
+2.5 cannelle
+2 oeuf
+15 lait
